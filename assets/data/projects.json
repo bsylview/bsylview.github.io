@@ -1,0 +1,27 @@
+{
+  "projects": [{
+    "project": {
+      "id": "1",
+      "title": "SlideSF",
+      "alt": "SlideSF",
+      "url": "https://slidesf.herokuapp.com",
+      "src": "./assets/images/portfolio/slidesf.jpg"
+    }
+  }, {
+    "project": {
+      "id": "2",
+      "title": "Transportation App",
+      "alt": "Transportation App",
+      "url": "https://traveller-6b4f5.firebaseapp.com/",
+      "src": "./assets/images/portfolio/transportation.png"
+    }
+  }, {
+    "project": {
+      "id": "3",
+      "title": "Corporate Dashboard",
+      "alt": "Dashboard",
+      "url": "https://dashboardcorp.herokuapp.com/",
+      "src": "./assets/images/portfolio/dashboard.jpg"
+    }
+  }]
+}

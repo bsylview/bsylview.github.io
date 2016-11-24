@@ -1,0 +1,87 @@
+{
+  "techs": [{
+    "tech": {
+      "title": "Angular",
+      "alt": "Angular",
+      "url": "https://angularjs.org/",
+      "src": "./assets/images/tech/angular.png"
+    }
+  }, {
+    "tech": {
+      "title": "Cordova",
+      "alt": "Cordova",
+      "url": "https://cordova.apache.org/",
+      "src": "./assets/images/tech/cordova.png"
+    }
+  }, {
+    "tech": {
+      "title": "ES6",
+      "alt": "ES6",
+      "url": "http://es6-features.org",
+      "src": "./assets/images/tech/es6.png"
+    }
+  }, {
+    "tech": {
+      "title": "Gulp",
+      "alt": "Gulp",
+      "url": "http://gulpjs.com/",
+      "src": "./assets/images/tech/gulp.png"
+    }
+  }, {
+    "tech": {
+      "title": "NodeJS",
+      "alt": "NodeJS",
+      "url": "https://nodejs.org/",
+      "src": "./assets/images/tech/node.png"
+    }
+  }, {
+    "tech": {
+      "title": "React",
+      "alt": "React",
+      "url": "https://facebook.github.io/react/",
+      "src": "./assets/images/tech/react.png"
+    }
+  }, {
+    "tech": {
+      "title": "Ember",
+      "alt": "Ember",
+      "url": "http://emberjs.com/",
+      "src": "./assets/images/tech/ember.png"
+    }
+  }, {
+    "tech": {
+      "title": "Bckbonejs",
+      "alt": "Backbonejs",
+      "url": "http://backbonejs.org/",
+      "src": "./assets/images/tech/backbonejs.png"
+    }
+  }, {
+    "tech": {
+      "title": "HTML5",
+      "alt": "HTML5",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5",
+      "src": "./assets/images/tech/html5.png"
+    }
+  }, {
+    "tech": {
+      "title": "Typescript",
+      "alt": "Typescript",
+      "url": "http://www.typescriptlang.org/",
+      "src": "./assets/images/tech/typescript.png"
+    }
+  }, {
+    "tech": {
+      "title": "Webpack",
+      "alt": "Webpack",
+      "url": "http://webpack.github.io/",
+      "src": "./assets/images/tech/webpack.png"
+    }
+  }, {
+    "tech": {
+      "title": "Ionic",
+      "alt": "Ionic",
+      "url": "http://ionicframework.com/",
+      "src": "./assets/images/tech/ionic.png"
+    }
+  }]
+}
